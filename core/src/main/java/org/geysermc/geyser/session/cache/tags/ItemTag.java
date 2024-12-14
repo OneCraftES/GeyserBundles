@@ -180,7 +180,6 @@ public final class ItemTag {
     public static final Tag<Item> VILLAGER_PICKS_UP = create("villager_picks_up");
     public static final Tag<Item> DYEABLE = create("dyeable");
     public static final Tag<Item> FURNACE_MINECART_FUEL = create("furnace_minecart_fuel");
-    public static final Tag<Item> BUNDLES = create("bundles");
     public static final Tag<Item> SKELETON_PREFERRED_WEAPONS = create("skeleton_preferred_weapons");
     public static final Tag<Item> DROWNED_PREFERRED_WEAPONS = create("drowned_preferred_weapons");
     public static final Tag<Item> PIGLIN_PREFERRED_WEAPONS = create("piglin_preferred_weapons");
@@ -207,6 +206,7 @@ public final class ItemTag {
     public static final Tag<Item> ENCHANTABLE_MACE = create("enchantable/mace");
     public static final Tag<Item> MAP_INVISIBILITY_EQUIPMENT = create("map_invisibility_equipment");
     public static final Tag<Item> GAZE_DISGUISE_EQUIPMENT = create("gaze_disguise_equipment");
+    public static final Tag<Item> BUNDLES = create("bundles");
 
     private ItemTag() {}
 
